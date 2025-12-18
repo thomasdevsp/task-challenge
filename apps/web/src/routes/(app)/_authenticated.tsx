@@ -1,7 +1,7 @@
-import Header from "@/components/layout/header";
-import { ModalCreateTask } from "@/components/shared/modal-create-task";
-import { useAuthStore } from "@/store/auth-store";
-import { Outlet, createFileRoute, redirect } from "@tanstack/react-router";
+import Header from '@/components/layout/header'
+import { ModalCreateTask } from '@/components/shared/modal-create-task'
+import { useAuthStore } from '@/store/auth-store'
+import { Outlet, createFileRoute, redirect } from '@tanstack/react-router'
 
 export const Route = createFileRoute('/(app)/_authenticated')({
   beforeLoad: ({ location }) => {

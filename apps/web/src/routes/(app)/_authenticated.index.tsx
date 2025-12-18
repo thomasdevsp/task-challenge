@@ -1,6 +1,6 @@
-import { TaskColumn } from '@/components/shared/task-column';
-import { useAuthStore } from '@/store/auth-store';
-import { createFileRoute } from '@tanstack/react-router';
+import { TaskColumn } from '@/components/shared/task-column'
+import { useAuthStore } from '@/store/auth-store'
+import { createFileRoute } from '@tanstack/react-router'
 
 export const Route = createFileRoute('/(app)/_authenticated/')({
   component: App,
@@ -19,7 +19,6 @@ function App() {
         <TaskColumn title="REVISÃO" status="REVIEW" />
 
         <TaskColumn title="PRONTAS" status="DONE" />
-
       </main>
     </div>
   )
