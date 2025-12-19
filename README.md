@@ -55,4 +55,5 @@ yarn run dev:all
 
 # Considerações finais
 Gostei muito de fazer o desafio, apesar de não ter conseguido finalizar o desafio, achei muito interessante a escolha de tecnologias que são relativamente
-simples, mas muito funcional, acompanhe meu perfil no linkedin que posto a versão completa da qui a uns dias
+simples, mas muito funcional, acompanhe meu perfil no linkedin que posto a versão completa da qui a uns dias.
+No final do dia o app só ta com a api funcional o front só tem login/registro e listagem de tarefas
