@@ -32,9 +32,9 @@ Apesar de ter perdido praticamente uma semana por outros motivos, oque mais me t
 3 projetos de nest.js antes de iniciar o desafio, ja o front-end só sobrou 1 dia e meio para usar e conseguiria avançar mais com o mesmo tempo, porém nunca tinha usado
 o Tanstack Router
 
-## 🚀 Instruções específicas se houver
+## 🚀 Instruções específicas 
 
-O projeto não está totalmente dockerizado então vamos ter que rodar alguns comandos
+O projeto não está totalmente dockerizado então vamos ter que rodar alguns comandos e retirar o .exemple do env em auth-service e api-gateway
 
 ---
 Primeiro vamos instalar as dependencias:
