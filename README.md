@@ -57,3 +57,8 @@ yarn run dev:all
 Gostei muito de fazer o desafio, apesar de não ter conseguido finalizar o desafio, achei muito interessante a escolha de tecnologias que são relativamente
 simples, mas muito funcional, acompanhe meu perfil no linkedin que posto a versão completa da qui a uns dias.
 No final do dia o app só ta com a api funcional o front só tem login/registro e listagem de tarefas
+Após começar a desenvolver o front percebi que só a adição de tarefas e comentarios ficaria  muito simples então a ideia é adicionar uma organização de projetos 
+para agrupar as tarefas e a possibilidade da criação de times também, assim facilitaria a escolha de um grupo especifico para cada tarefa,também quero adicionar um modal de perfil para o usuario cadastrar mais informações, drag em drop nas tarefas e um chatbot para adicionar manipular as tarefas e times, recentemente fiz um projeto com chatbot que gerenciava um simples todolist e acho que a ideia ficaria perfeita para completar o projeto.
+Bom como comentei a versão final vai ficar disponivel em alguns dias caso termine a tempo de verem, o link vai estar a baixo
+
+
