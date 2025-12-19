@@ -25,7 +25,8 @@
 ---
 ## 🛠 Problemas conhecidos e o que melhoraria
 Não tive nenhum problema significativo, apesar de ter aprendido nest.js de verdade nesses ultimos dias, gostei da combinação do typeorm, rabbitmq e nest, mudaria
-as stacks de estilo, não sou muito fã de css-inline, acredito que deixa o codigo de certa maneira "sujo", mas admito que é "pratico"
+as stacks de estilo, não sou muito fã de css-inline, acredito que deixa o codigo de certa maneira "sujo", mas admito que é "pratico".
+Particularmente gosto de deixar o codigo organizado por mais que fique com mais arquivos e linhas, um sass com css.modules já é interessante, mas o styled-components tem seu lugarzinho no meu coração
 
 ## 🛠 Tempo gasto
 Apesar de ter perdido praticamente uma semana por outros motivos, oque mais me tomou tempo foi o back-end aonde gastei cerca de 5 dias, entre estudo e execução, fiz 
